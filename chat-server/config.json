@@ -1,0 +1,4 @@
+{
+    "db":"mongodb://test:test@localhost:27017/chatroom",
+    "port":"4000"
+}
